@@ -1,5 +1,5 @@
 # isPbId
-A function to check if it's vaid karmapa pb id
+A function to check if it's valid karmapa pb id
 
 ## Useage
 
