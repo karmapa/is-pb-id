@@ -1,0 +1,19 @@
+{
+  "name": "is-pb-id",
+  "version": "1.0.0",
+  "description": "A function to check if it's pb id",
+  "main": "isPbId.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karmapa/is-pb-id.git"
+  },
+  "author": "karmapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmapa/is-pb-id/issues"
+  },
+  "homepage": "https://github.com/karmapa/is-pb-id#readme"
+}
