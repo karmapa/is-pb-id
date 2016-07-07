@@ -1,9 +1,9 @@
 # isPbId
-A function to check if it's pb id
+A function to check if it's vaid karmapa pb id
 
 ## Useage
 
 ```javascript
-console.log(isPbId('1.1a'));
-console.log(isPbId('_@1'));
+console.log(isPbId('1.1a'));    // true
+console.log(isPbId('_@1'));    // false
 ```
