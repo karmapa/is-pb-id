@@ -1,4 +1,3 @@
 module.exports = function isPbId(str) {
-  str = str || '';
-  return !! str.match(/^\d+\-\d+\-\d+[abcde]$/);
+  return /^\d+\-\d+\-\d+[abcde]$/.test(str);
 };
